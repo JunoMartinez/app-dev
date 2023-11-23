@@ -1,8 +1,3 @@
 # app-dev
-My first repository
-```
-{
-  "My favorite movie series is": "<strong>Prison Break</strong> because it has a suspense story with some twists and puzzles that you yourself will think if it can be solved",
-:happy:
-}
-```
+
+<h1> My favorite movie series is Prison Break because the story has some twists and puzzles that you yourself will think if the problem can be solve or not </h1>
